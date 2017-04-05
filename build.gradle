@@ -4,7 +4,7 @@ apply plugin: 'java'
 //______________________________________________________//
 //_____________ JAVA PLUGIN CONFIG  ___________________//
 group = 'com.freblogg.hashing'
-version = '0.0.1-SNAPSHOT'
+version = '1.0'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
